@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initializing+GitHub+Profile+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=00F7F7&width=600&lines=%3E+🔌+Connecting+to+GitHub...;%3E+🔓+Authentication+successful.;%3E+📂+Accessing+Normal+Anomaly's+repository...;%3E+🟢+Files+decrypted.+Welcome+to+my+domain.)](https://git.io/typing-svg)
