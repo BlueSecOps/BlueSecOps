@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initializing+GitHub+Profile+;)](https://git.io/typing-svg)
